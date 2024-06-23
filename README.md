@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:7B68EECD,100:AFEEEE&height=200&text=영화%20정보%20사이트&fontColor=000000&fontSize=50&width=700&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:7B68EECD,100:AFEEEE&height=200&text=영화%20정보%20제공%20사이트&fontColor=000000&fontSize=50&width=700&fontAlignY=35)
 
 <div align = "center">
 
