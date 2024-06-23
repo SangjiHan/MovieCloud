@@ -33,7 +33,7 @@
  #### React로 구현한 영화 정보 제공 사이트 <br/>
  #### Tmdb 사이트의 api를 활용하여, JSON 데이터 사용 <br/>
  #### 해당 영화와 목록에 대한 데이터를 fetch하여 동적 사이트 구현 <br/> 
- :heavy_check_mark:  카테고리별 영화 목록 데이터를 json 형식으로 불러와 카테고리 별 리스트 표시
+ :heavy_check_mark:  카테고리별 영화 목록 데이터를 json 형식으로 불러와 카테고리 별 리스트 표시  <br/> 
  :heavy_check_mark:  영화별 value값을 fetch하여 영화 상세 정보 구현
  
  # 🧰:사용 기술
