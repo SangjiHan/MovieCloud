@@ -9,6 +9,7 @@
 <br>
 
 <div align = "center">
+    <img src="https://img.shields.io/badge/React-778899?style=for-the-badge&logo=React&logoColor=00BFFF&color=E6E6FA">
     <img src="https://img.shields.io/badge/HTML-0000CD?style=for-the-badge&logo=html5&logoColor=white&color=DC143C">
     <img src="https://img.shields.io/badge/css-ADD8E6?style=for-the-badge&logo=css3&logoColor=00CED1&color=000080">
     <img src="https://img.shields.io/badge/Javascript-90EE90?style=for-the-badge&logo=javascript&logoColor=FFFF00&color=808080">
