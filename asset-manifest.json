@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MovieCloud/static/css/main.f665e19c.css",
+    "main.js": "/MovieCloud/static/js/main.862c9ab9.js",
+    "static/js/453.7fcdcf83.chunk.js": "/MovieCloud/static/js/453.7fcdcf83.chunk.js",
+    "static/media/close.png": "/MovieCloud/static/media/close.582c2e7beec3e9f0bdb7.png",
+    "index.html": "/MovieCloud/index.html",
+    "main.f665e19c.css.map": "/MovieCloud/static/css/main.f665e19c.css.map",
+    "main.862c9ab9.js.map": "/MovieCloud/static/js/main.862c9ab9.js.map",
+    "453.7fcdcf83.chunk.js.map": "/MovieCloud/static/js/453.7fcdcf83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f665e19c.css",
+    "static/js/main.862c9ab9.js"
+  ]
+}
